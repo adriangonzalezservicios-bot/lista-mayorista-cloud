@@ -1,0 +1,98 @@
+[
+  {
+    "code": "REL00320",
+    "short": "Watch 8 Mini",
+    "units": 1,
+    "mayor": 23000,
+    "img": "assets/rel00320.jpg",
+    "active": true
+  },
+  {
+    "code": "PAINTG01",
+    "short": "Pistola PG1000",
+    "units": 1,
+    "mayor": 60000,
+    "img": "assets/paintg01.jpg",
+    "active": true
+  },
+  {
+    "code": "QPELU002",
+    "short": "Saca Pelusa Recargable",
+    "units": 3,
+    "mayor": 20000,
+    "img": "assets/qpelu002.jpg",
+    "active": true
+  },
+  {
+    "code": "ANTIPA03",
+    "short": "Antiparra A3GO",
+    "units": 1,
+    "mayor": 25000,
+    "img": "assets/antipa03.jpg",
+    "active": true
+  },
+  {
+    "code": "BC000066",
+    "short": "Power Bank 25000 mAh",
+    "units": 4,
+    "mayor": 25000,
+    "img": "assets/bc000066.jpg",
+    "active": true
+  },
+  {
+    "code": "TIJERAS5",
+    "short": "Tijera Canina 7\"",
+    "units": 1,
+    "mayor": 10000,
+    "img": "assets/tijeras5.jpg",
+    "active": true
+  },
+  {
+    "code": "DIFU0014",
+    "short": "Difusor DF10 USB",
+    "units": 1,
+    "mayor": 13000,
+    "img": "assets/difu0014.jpg",
+    "active": true
+  },
+  {
+    "code": "BC000064",
+    "short": "Jump Starter 10000 mAh",
+    "units": 1,
+    "mayor": 25000,
+    "img": "assets/bc000064.jpg",
+    "active": true
+  },
+  {
+    "code": "TRIPODE25",
+    "short": "Trípode BT Extensible",
+    "units": 1,
+    "mayor": 25000,
+    "img": "assets/tripode25.jpg",
+    "active": true
+  },
+  {
+    "code": "CAMWEB11",
+    "short": "Cámara Web 1080p",
+    "units": 1,
+    "mayor": 17000,
+    "img": "assets/camweb11.jpg",
+    "active": true
+  },
+  {
+    "code": "ANAFE111",
+    "short": "Anafe 1 Hornalla 1000W",
+    "units": 1,
+    "mayor": 15000,
+    "img": "assets/anafe111.jpg",
+    "active": true
+  },
+  {
+    "code": "MOLIN030",
+    "short": "Molinillo Cuk",
+    "units": 1,
+    "mayor": 5000,
+    "img": "assets/molin030.jpg",
+    "active": true
+  }
+]
