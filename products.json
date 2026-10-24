@@ -1,7 +1,143 @@
 [
   {
+    "code": "PIOTT002",
+    "short": "Plotter de Corte Gadnic 88 Cm",
+    "units": 1,
+    "mayor": 200000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SOP00060",
+    "short": "Soporte De Pie Para TV Gadnic Ruedas Estante 32 a 65 Pulgadas 50 kg",
+    "units": 1,
+    "mayor": 130000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ESCRI1N",
+    "short": "Escritorio Gadnic Con Altura Regulable Eléctrico",
+    "units": 2,
+    "mayor": 210000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "TRAMPIT8",
+    "short": "Cama Elástica Gadnic 244 cm 8 ft Trampolín Con Red De Protección Ext",
+    "units": 1,
+    "mayor": 100000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BEBE0082",
+    "short": "Sacalece Eléctrico Mave By Gadnic Portátil 9 Niveles 3 Modos Batería",
+    "units": 1,
+    "mayor": 55000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "PICA0010",
+    "short": "Picadora de Carne Eléctrica Cuk By Gadnic 600-1800W",
+    "units": 1,
+    "mayor": 65000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ESCRI015",
+    "short": "Escritorio Gamer En L Gadnic MFC Textura Carbono Estructura Acero",
+    "units": 1,
+    "mayor": 85000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SECA0002",
+    "short": "Secador De Pelo Gadnic Care 2200 / 2050W Tecnología Cerámica Ionic",
+    "units": 4,
+    "mayor": 16000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "CAMP0147",
+    "short": "Colchón Inflable SouthPort By Gadnic 2 Plazas con Bomba Eléctrica y A",
+    "units": 1,
+    "mayor": 40000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "PASTA001",
+    "short": "Fábrica de Pastas Gadnic Pastamática Acero Inoxidable 7 Regulaciones",
+    "units": 2,
+    "mayor": 40000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MANI0047",
+    "short": "Lijadora Eléctrica Bron By Gadnic 200W 12000 RPM",
+    "units": 1,
+    "mayor": 40000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DESELE61",
+    "short": "Mini Aerógrafo Gadnic Compresor Multipropósito Pulverizador Pintura",
+    "units": 1,
+    "mayor": 35000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SECA0014",
+    "short": "Cepillo Secador Care By Gadnic Con 5 Cabezales Intercambiables Ondas",
+    "units": 1,
+    "mayor": 70000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "YOGUR002",
+    "short": "Yogurtera Cuk Gadnic Fabricación de Yogurt 7 Vasos 200ml",
+    "units": 1,
+    "mayor": 45000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BAJU0014",
+    "short": "Bajo Trastero Para Moto Vetra By Gadnic 45L Plástico Inoxidable con",
+    "units": 1,
+    "mayor": 95000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "WATPU001",
+    "short": "Bomba Presurizadora Bron By Gadnic presión Automática Sensor Pre Fil",
+    "units": 2,
+    "mayor": 60000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "LANPA001",
+    "short": "Mapa Gadnic Clear Dream con Base Escribir Centrífugo Integral Lumi",
+    "units": 1,
+    "mayor": 50000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "REL00320",
-    "short": "Watch 8 Mini",
+    "short": "SmartWatch Gadnic Watch 8 Mini Presión Arterial NFC IP68 GPS Llama",
     "units": 1,
     "mayor": 23000,
     "img": "assets/rel00320.jpg",
@@ -9,31 +145,247 @@
   },
   {
     "code": "PAINTG01",
-    "short": "Pistola PG1000",
+    "short": "Pistola de Pintura Gadnic PG1000 400w Regulable",
     "units": 1,
     "mayor": 60000,
     "img": "assets/paintg01.jpg",
     "active": true
   },
   {
+    "code": "DIFU0028",
+    "short": "Difusor Humidificador Gadnic DH200 De Llama",
+    "units": 2,
+    "mayor": 15000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DIFU0001",
+    "short": "Difusor Gadnic Humidificador Ultrasónico 300ml 20hs 7 Colores",
+    "units": 2,
+    "mayor": 16000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "WATER013",
+    "short": "Irrigador Bucal Care By Gadnic WM3 Telescópico Recargable 7 Velocidades",
+    "units": 1,
+    "mayor": 40000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DESKL009",
+    "short": "Lámpara de Plasma Eléctrica Gadnic Bola de Luz con Rayos",
+    "units": 2,
+    "mayor": 10000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BEBE098G",
+    "short": "BEBE098G",
+    "units": 1,
+    "mayor": 25000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BEBE098B",
+    "short": "BEBE098B",
+    "units": 1,
+    "mayor": 25000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "FC256001",
+    "short": "Irrigador Bucal Portátil Nicefeel FC256 200 ml IPX7 Batería 1400 mAh",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "AV000009",
+    "short": "Compresor De Aire Gadnic Para Auto 12V 150 PSI 85 Lts/Min Portátil",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ALCAR006",
+    "short": "Sistema De Alarma Gadnic Para Autos Control Remoto",
+    "units": 1,
+    "mayor": 38000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "QPELU002",
-    "short": "Saca Pelusa Recargable",
+    "short": "Saca Pelusa Recargable Gadnic",
     "units": 3,
     "mayor": 20000,
     "img": "assets/qpelu002.jpg",
     "active": true
   },
   {
+    "code": "ALMTER06",
+    "short": "Manta Térmica Gadnic Eléctrica",
+    "units": 1,
+    "mayor": 45000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "GAZEB003",
+    "short": "Gazebo Gadnic 3x3 Plegable Impermeable Uso Temporal Toldo Con Paredes",
+    "units": 1,
+    "mayor": 85000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "REL00311",
+    "short": "Smartwatch Gadnic V35 Pro Pantalla Amoled",
+    "units": 1,
+    "mayor": 23000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DIFU0019",
+    "short": "Difusor Aromático Gadnic Humidificador Ultrasónico Con Luz LED 7 Colores",
+    "units": 1,
+    "mayor": 18000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "EREL0002",
+    "short": "Estuche Organizador de 12 Relojes Con Bisagra de Metal",
+    "units": 1,
+    "mayor": 25000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DIFU0040",
+    "short": "Difusor Aromático Gadnic Efecto Madera",
+    "units": 2,
+    "mayor": 12000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "ANTIPA03",
-    "short": "Antiparra A3GO",
+    "short": "Antiparra SouthPort Gadnic A3GO Para Ski Snowboard",
     "units": 1,
     "mayor": 25000,
     "img": "assets/antipa03.jpg",
     "active": true
   },
   {
+    "code": "GAZEB001",
+    "short": "Gazebo Plegable Gadnic 3x3 Reforzado Con Paredes Uso Temporal",
+    "units": 1,
+    "mayor": 85000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "AV000414",
+    "short": "Compresor De Aire Portátil Gadnic Para Neumáticos 12V",
+    "units": 1,
+    "mayor": 20000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MANI0006",
+    "short": "Extractor De Polvo De Uñas Care By Gadnic VaccPro 40w Ergónomico",
+    "units": 1,
+    "mayor": 20000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "TOSTAD2N",
+    "short": "TOSTAD2N",
+    "units": 1,
+    "mayor": 19000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "RELMO015",
+    "short": "Reloj De Mujer Gadnic Cuarzo Analógico Resistente Al Agua Elegante",
+    "units": 1,
+    "mayor": 15000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MATELI01",
+    "short": "Mate Autocebante South Port By Gadnic Termo 500 ml Acero Inoxidable",
+    "units": 0,
+    "mayor": 8000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ARROZ001",
+    "short": "Olla Arrocera Gadnic RM1000 Vaporera Antiadherente 700w",
+    "units": 1,
+    "mayor": 57000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DIFU0002",
+    "short": "Difusor Aromaterapia Ultrasónico Gadnic Bamboo 300ml 7 Luces LED",
+    "units": 1,
+    "mayor": 10000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DEPI0019",
+    "short": "Depiladora eléctrica 4 en 1 Gadnic para mujer pierna cara inalámbrica",
+    "units": 1,
+    "mayor": 20000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DIFU0018",
+    "short": "Difusor Humidificador Gadnic DH100 Efecto Llama 180ml Aromaterapia",
+    "units": 1,
+    "mayor": 10000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "WAFLES03",
+    "short": "Máquina De Mini Donas CUK By GADNIC Mini Antiadherente 750W",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BEBE0093",
+    "short": "Sonajero Móvil Giratorio Gadnic Musical con Proyector Luz",
+    "units": 1,
+    "mayor": 15000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "BC000066",
-    "short": "Power Bank 25000 mAh",
+    "short": "Cargador Portátil Gadnic Batería 25000 mAh Carga Rápida 5V 2A Dual",
     "units": 4,
     "mayor": 25000,
     "img": "assets/bc000066.jpg",
@@ -41,23 +393,127 @@
   },
   {
     "code": "TIJERAS5",
-    "short": "Tijera Canina 7\"",
+    "short": "Tijera Profesional Gadnic Peluquería Canina Microdentada 7\"",
     "units": 1,
     "mayor": 10000,
     "img": "assets/tijeras5.jpg",
     "active": true
   },
   {
+    "code": "DIFU0012",
+    "short": "Humidificador Ultra Silencioso Gadnic Aromaterapia",
+    "units": 2,
+    "mayor": 7000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MANI0022",
+    "short": "Cabina Para Uñas Care By Gadnic FUTURE V11 UV LED 18.8W Display",
+    "units": 0,
+    "mayor": 20000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "DIFU0014",
-    "short": "Difusor DF10 USB",
+    "short": "Humidificador Difusor Gadnic DF10 Ultrasónico USB Recargable",
     "units": 1,
     "mayor": 13000,
     "img": "assets/difu0014.jpg",
     "active": true
   },
   {
+    "code": "SECA0003",
+    "short": "Cepillo Secador de Pelo Care By Gadnic S1200 Pro Voluminizador Calor",
+    "units": 1,
+    "mayor": 20000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BEBE0014",
+    "short": "Kit x2 Sacalece Mave by Gadnic D-112 150ml Extractor Automático",
+    "units": 1,
+    "mayor": 20000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "CLEAN001",
+    "short": "Limpiador Facial Care By Gadnic BF3078 Removedor de Puntos Negros",
+    "units": 1,
+    "mayor": 18000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "CORTPE38",
+    "short": "Cortadora de Pelo Gadnic Trimz Acero Inoxidable",
+    "units": 1,
+    "mayor": 18000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MASAJ308",
+    "short": "Masajeador Cervical y Lumbar Gadnic 8 Rodillos Bidireccionales",
+    "units": 1,
+    "mayor": 22000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "RELMO003",
+    "short": "Reloj Digital Deportivo Gadnic Apolo Sumergible",
+    "units": 1,
+    "mayor": 12000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BEBE0013",
+    "short": "Sacalehes Gadnic RH-289 Portátil Automático Batería Recargable 1200",
+    "units": 1,
+    "mayor": 18000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "AV000014",
+    "short": "Aspiradora de Mano 12v Para Auto Portátil 108w Filtro HEPA",
+    "units": 1,
+    "mayor": 20000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DIFU0004",
+    "short": "Difusor Humidificador Aromatizante LED Multicolor 500ml Temporizado",
+    "units": 1,
+    "mayor": 10000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "EMBUTI03",
+    "short": "Máquina Rellenadora Decoradora Gadnic Galletas",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ABLUE097",
+    "short": "Auricular In Ear Gadnic AQUA S11 TWS Bluetooth",
+    "units": 1,
+    "mayor": 12000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "BC000064",
-    "short": "Jump Starter 10000 mAh",
+    "short": "Power Bank Jump Starter Gadnic 10000 mAh 12 V Arranque Rápido",
     "units": 1,
     "mayor": 25000,
     "img": "assets/bc000064.jpg",
@@ -65,15 +521,31 @@
   },
   {
     "code": "TRIPODE25",
-    "short": "Trípode BT Extensible",
+    "short": "Trípode Extensible Gadnic Con Control Remoto Bluetooth",
     "units": 1,
     "mayor": 25000,
     "img": "assets/tripode25.jpg",
     "active": true
   },
   {
+    "code": "GRINDER7",
+    "short": "Molinillo De Café Manual Gadnic Portátil Ajustable En Acero Inoxidable",
+    "units": 0,
+    "mayor": 15000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BALAN15B",
+    "short": "BALAN15B",
+    "units": 1,
+    "mayor": 10000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "CAMWEB11",
-    "short": "Cámara Web 1080p",
+    "short": "Cámara Web Gadnic Full HD 1080p con Micrófono 30 FPS",
     "units": 1,
     "mayor": 17000,
     "img": "assets/camweb11.jpg",
@@ -81,18 +553,250 @@
   },
   {
     "code": "ANAFE111",
-    "short": "Anafe 1 Hornalla 1000W",
+    "short": "Anafe Eléctrico Cuk by Gadnic 1 Hornalla 1000W",
     "units": 1,
     "mayor": 15000,
     "img": "assets/anafe111.jpg",
     "active": true
   },
   {
+    "code": "ABLUE163",
+    "short": "Auriculares Inalámbricos Gadnic Micrófono Vincha Bluetooth 5.3",
+    "units": 1,
+    "mayor": 12000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MOUSE030",
+    "short": "Mouse Inalámbrico Óptico LED Recargable Silencioso Bluetooth Portátil",
+    "units": 1,
+    "mayor": 8000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "DIFU0009",
+    "short": "Difusor Gadnic Humidificador Aromatizante para Aceites 130mL Bamboo",
+    "units": 1,
+    "mayor": 8000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SIER0004",
+    "short": "Kit de Adaptación Para Sierras Gadnic Soporte de Motosierra",
+    "units": 1,
+    "mayor": 12000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "TRIPODE16",
+    "short": "Trípode Gadnic 2,1 mts para Iluminadores",
+    "units": 1,
+    "mayor": 7000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BURBU002",
+    "short": "Pistola De Burbujas Gadnic Burbujero Automático Con Luces",
+    "units": 1,
+    "mayor": 10000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ABLUE117",
+    "short": "Auriculares Inalámbricos Gadnic In-ear SH8 Bluetooth Running Deporte",
+    "units": 1,
+    "mayor": 10000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
     "code": "MOLIN030",
-    "short": "Molinillo Cuk",
+    "short": "Set x1 Molinillo Pimentero Cuk By Gadnic Moledor Manual",
     "units": 1,
     "mayor": 5000,
     "img": "assets/molin030.jpg",
+    "active": true
+  },
+  {
+    "code": "BALANZ2A",
+    "short": "BALANZ2A",
+    "units": 1,
+    "mayor": 8000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SECA0007",
+    "short": "Cepillo Secador y Moldeador de Pelo Gadnic Monner Desmontable",
+    "units": 1,
+    "mayor": 15000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ASPNAS03",
+    "short": "Aspirador Nasal Gadnic Eléctrico Automático Silencioso 6 Niveles",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SOP00075",
+    "short": "Soporte para Enchufe Tomacorriente Gadnic de Pared",
+    "units": 1,
+    "mayor": 8000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ORYX-EARTH",
+    "short": "Parlante Oryx EARTH (SP1146-50)",
+    "units": 1,
+    "mayor": 40000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SV2404",
+    "short": "Parlante SV2404",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SP31-18",
+    "short": "Ventilador Startrack SP31-18",
+    "units": 1,
+    "mayor": 27000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ML1003T",
+    "short": "Termo + mate Morlan ML1003T",
+    "units": 1,
+    "mayor": 18000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "ALON",
+    "short": "Termo + mate Alon",
+    "units": 1,
+    "mayor": 18000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "YQ10119",
+    "short": "Termo + mate Hengda YQ10119",
+    "units": 1,
+    "mayor": 18000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BOTTLE750",
+    "short": "Sport Bottle 750 ml",
+    "units": 1,
+    "mayor": 8500,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "BOTTLE500",
+    "short": "Sport Bottle 500 ml",
+    "units": 1,
+    "mayor": 7500,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MATE-ROJO",
+    "short": "Set mate lata barril rojo",
+    "units": 1,
+    "mayor": 5000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MATE-BLANCO",
+    "short": "Set mate lata barril blanco",
+    "units": 1,
+    "mayor": 5000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "MATE-NEGRO",
+    "short": "Set mate lata negro",
+    "units": 1,
+    "mayor": 5000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "CARTEL",
+    "short": "Cartel Luminoso",
+    "units": 1,
+    "mayor": 13000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SCRAP001",
+    "short": "Bandolera / Bolso Animal Print",
+    "units": 1,
+    "mayor": 50000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SCRAP002",
+    "short": "Crocs Classic Mystic Purple Talle 37",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SCRAP003",
+    "short": "Crocs Little Juice Talle 2/3",
+    "units": 1,
+    "mayor": 27000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SCRAP004",
+    "short": "Top deportivo Fila Racer Talle M",
+    "units": 1,
+    "mayor": 30000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SCRAP005",
+    "short": "Zapatilla Topper Wind IV Mesh Kids Talle 32",
+    "units": 1,
+    "mayor": 35000,
+    "img": "assets/placeholder.svg",
+    "active": true
+  },
+  {
+    "code": "SCRAP006",
+    "short": "Zapatillas Topper Core Azul talle 35",
+    "units": 1,
+    "mayor": 40000,
+    "img": "assets/placeholder.svg",
     "active": true
   }
 ]
